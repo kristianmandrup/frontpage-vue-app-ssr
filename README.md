@@ -31,3 +31,9 @@ It will open a browser window, or you can browse to http://localhost:3000.
 ```
 npm run build
 ```
+
+## WIP: Server Side Rendering
+
+Added `ssr.js` and `ssr-bundle.js` from [vue2-ssr-example](https://github.com/csbun/vue2-ssr-example)
+
+Not working yet, but close...
