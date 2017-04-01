@@ -1,5 +1,7 @@
 # Apollo VueJS 2.0 Hello World app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/frontpage-vue-app-ssr.svg)](https://greenkeeper.io/)
+
 This is the simple example VueJS/Apollo app that lives at dev.apollodata.com.
 
 ## Installation
